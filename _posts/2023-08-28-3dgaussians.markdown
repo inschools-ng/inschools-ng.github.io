@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Faster ML Inference using Differentiable logic gate networks on an FPGA"
+title:  "Faster ML Inference using Differentiable Logic Gate Networks on an FPGA"
 date:   2025-02-13 01:01:01 +00:00
 image: /images/nature.jpg
 categories: research
