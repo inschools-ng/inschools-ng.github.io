@@ -7,7 +7,7 @@ categories: research
 author: "FZ Oakes"
 authors: "<strong>FZ Oakes</strong>, Other Authors"
 venue: "Potentially ArXiv"
-arxiv: https://arxiv.org/abs/2308.14737
+# arxiv: https://arxiv.org/abs/2308.14737
 code: https://github.com/inschools-ng/inschools-ng
 website: https://inschools-ng.github.io/inschools-ng
 ---
