@@ -2,7 +2,7 @@
 layout: post
 title:  "Faster Machine Learning Inference on FPGAs using Differentiable Logic Networks"
 date:   2025-02-13 01:01:01 +00:00
-image: /images/android.png
+image: /images/robot.jpg
 categories: research
 author: "FZ Oakes"
 authors: "<strong>FZ Oakes</strong>, Other Authors"
