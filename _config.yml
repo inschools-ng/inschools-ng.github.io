@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Franklyn Chezona
+name: Franklyn Oakes
 
 # Short bio or description (displayed in the header)
 # description: the profile of an engineer, researcher and software developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/circle_bw_crop.jpg
+avatar: images/nature.jpg
 
 #
 # Flags below are optional
@@ -18,11 +18,11 @@ avatar: images/circle_bw_crop.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: franklynechezona@gmail.com
+  email: 1145yuit@gmail.com
   facebook:
   flickr:
   github: inschools-ng
-  instagram: f.chezona
+  instagram: chchzna
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
