@@ -6,7 +6,7 @@
 name: Franklyn Oakes
 
 # Short bio or description (displayed in the header)
-description: Blind Compass
+# description: Blind Compass
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: images/nature.jpg
@@ -42,7 +42,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: "http://inschools-ng.github.io" # the base hostname & protocol for your site
+url: "https://inschools-ng.github.io" # the base hostname & protocol for your site
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
