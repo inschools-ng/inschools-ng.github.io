@@ -9,6 +9,6 @@ authors: "<strong>FF Oakes</strong>, Other Authors"
 venue: "Potentially ArXiv"
 arxiv: https://github.com/inschools-ng/inschools-ng
 code: https://github.com/inschools-ng/inschools-ng
-website: https://inschools-ng.github.io/
+website: https://inschools-ng.github.io/inschools-ng
 ---
 Using differentiable logic gate networks on programmable hardware like FPGAs can speed up machine learning inference by 10-20 times compared to current methods. 
